@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import collection.service.JoinArrays_concat;
 import collection.service.SimpleData;
-import org.testng.annotations.Test;
+import org.junit.Test;
 
 
 public class JoinArrays_concatTest {

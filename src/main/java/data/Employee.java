@@ -1,8 +1,9 @@
 package data;
 
-import lombok.*;
+import lombok.Data;
+import lombok.ToString;
 
-@Data @AllArgsConstructor @ToString
+@Data @ToString
 public class Employee {
     private Integer empId;
     private String namePrefix;
